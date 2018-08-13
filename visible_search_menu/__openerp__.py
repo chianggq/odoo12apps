@@ -3,7 +3,7 @@
     'license': 'LGPL-3',
     'name': "Visible Search Menu",
     'summary': 'Default visible advanced search menu',
-    'author': "renjie <i@renjie.me>",
+    'author': "Kindle",
     'website': "https://renjie.me",
     'support': 'i@renjie.me',
     'category': 'Extra Tools',
