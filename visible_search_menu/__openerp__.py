@@ -9,6 +9,7 @@
     'category': 'Extra Tools',
     'version': '0.1',
     'depends': ['web'],
+	#new branch
     'data': [
         'views/webclient_templates.xml',
     ],
